@@ -5,19 +5,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>웹메모장</title>
+  <style>
+    textarea {
+      resize: none;
+    }
+  </style>
 </head>
 <body>
   <form id="form-memo">
     <textarea cols="30" rows="10" id="textarea-memo"></textarea>
     <button id="btn-memo" disabled>기록</button>
   </form>
-  <ul>
-    <li>
-      <p>메모의 내용</p>
-      2020.02.02
-      <button>삭제버튼</button>
-    </li>
-  </ul>
+  <ul></ul>
   <script src="./main.js"></script>
 </body>
 </html>

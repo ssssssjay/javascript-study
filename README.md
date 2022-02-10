@@ -26,4 +26,7 @@ velog : https://velog.io/@jay__ss/study-%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%
 ## 3회차 과제
 
 ### JS를 사용한 공잡기 game 만들기
-![image](https://user-images.githubusercontent.com/48425930/153375215-3c7e8dad-903f-45d3-865b-42e8ded68f4a.png)
+
+## 4회차 과제
+
+### 모달창 만들기

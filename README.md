@@ -18,3 +18,7 @@
 github 배포 page : https://ssssssjay.github.io/javascript-study/web-memo
 
 velog : https://velog.io/@jay__ss/study-%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A9%94%EB%AA%A8%EC%9E%A5
+
+## 2회차 과제
+
+### JS를 이용한 캐러셀 슬라이더 만들기

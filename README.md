@@ -26,4 +26,4 @@ velog : https://velog.io/@jay__ss/study-%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%
 ## 3회차 과제
 
 ### JS를 사용한 공잡기 game 만들기
-https://morning-heart-e2a.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9312c3ec-87c0-432d-a6a7-778748aff40d%2F%EB%AC%B4%EB%8B%B9%EB%B2%8C%EB%A0%88%EC%9E%A1%EA%B8%B0-%EC%8A%A4%ED%81%AC%EB%9E%98%EC%B9%98%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%8A%A4%ED%81%AC%EB%9E%98%EC%B9%98%EA%B2%8C%EC%9E%84-%EC%8A%A4%ED%81%AC%EB%9E%98%EC%B9%98%EA%B0%95%EC%A2%8C-.gif?table=block&id=af57355f-6198-455b-959e-f1fd9e063b39&spaceId=ec0d7739-bd01-43d1-8129-07440e8072b9&userId=&cache=v2
+![image](https://user-images.githubusercontent.com/48425930/153375215-3c7e8dad-903f-45d3-865b-42e8ded68f4a.png)

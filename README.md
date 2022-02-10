@@ -14,3 +14,5 @@
 ## 1회차 과제
 
 ### JS 와 Web Api(Localstorage)를 이용한 웹 메모장 만들기
+
+https://ssssssjay.github.io/javascript-study/web-memo

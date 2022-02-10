@@ -15,4 +15,4 @@
 
 ### JS 와 Web Api(Localstorage)를 이용한 웹 메모장 만들기
 
-https://ssssssjay.github.io/javascript-study/web-memo
+github 배포 page : https://ssssssjay.github.io/javascript-study/web-memo

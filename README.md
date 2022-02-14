@@ -26,7 +26,6 @@ velog : https://velog.io/@jay__ss/study-%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%
 github 배포 page : https://ssssssjay.github.io/javascript-study/image-carousel
 
 velog : 
-
 ## 3회차 과제
 
 ### JS를 사용한 공잡기 game 만들기

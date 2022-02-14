@@ -1,6 +1,8 @@
 const carouselSlide = document.querySelector('.carousel-slide');
 const carouselImages = document.querySelectorAll('.carousel-slide img');
 
+console.log(carouselImages);
+
 const prevBtn = document.querySelector('#prev');
 const nextBtn = document.querySelector('#next');
 
@@ -11,6 +13,7 @@ carouselSlide.style.transform = 'translateX(' + (-size * counter) + 'px)';
 
 
 nextBtn.addEventListener('click', () => {
+  // 무한 클릭시 버그가 안나도록 해주는 코드
   if (counter >= carouselImages.length -1) return;
   carouselSlide.style.transition = 'all 0.4s ease-in-out'
   counter++;
@@ -18,6 +21,7 @@ nextBtn.addEventListener('click', () => {
 });
 
 prevBtn.addEventListener('click', () => {
+  // 무한 클릭시 버그가 안나도록 해주는 코드
   if (counter <= 0) return;
   carouselSlide.style.transition = 'all 0.4s ease-in-out'
   counter--;

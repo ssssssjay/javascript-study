@@ -35,3 +35,6 @@ velog :
 ## 4회차 과제
 
 ### 모달창 만들기
+github 배포 page : https://ssssssjay.github.io/javascript-study/modal
+
+velog :

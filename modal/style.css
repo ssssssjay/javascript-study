@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: rgb(30, 144, 255);
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0.75rem 1rem;
+  border-radius: 5px;
+  font-weight: 700;
+  color: #fff;
+  transition: all .2s ease;
+}
+button:hover {
+  background-color: rgba(30, 144, 255, 0.8);
+}
+
+h1 {
+  position: absolute;
+	clip: rect(0 0 0 0);
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+}
+/* 본문영역 */
+.main-content {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+
+/* 모달영역 */
+.modal-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+
+  background-color: rgba(0, 0, 0, 0.3);
+
+  display: grid;
+  place-items: center;
+
+  visibility: hidden;
+  opacity: 0;
+
+  transition: all .4s;
+
+  /*=== Effect 3 ===*/
+  perspective: 800px;
+}
+.modal-content {
+  width: 500px;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  transition: all .4s;
+
+  /*=== Effect 1 ===*/
+  /* transform: translateY(20%); */
+
+  /*=== Effect 2 ===*/
+  /* transform: scale(.5) translateY(10%); */
+
+  /*=== Effect 3 ===*/
+  transform: rotateX(65deg) scale(.75) translateY(20%);
+  transform-origin: 50% 100%; 
+}
+
+
+/* 모달 보여주기 */
+.show-modal{
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal .modal-content{
+  /*=== Effect 1 ===*/
+  /* transform: translateY(0); */
+
+  /*=== Effect 2 ===*/
+  /* transform: scale(1) translateY(0); */
+
+  /*=== Effect 3 ===*/
+  transform: rotateX(0) scale(1) translateY(0);
+}
